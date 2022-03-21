@@ -8,7 +8,7 @@ function Navigation(){
             <li>Accueil</li>
         </Link>
         <Link to='/Cycling'>
-            <li>Recycle moi</li>
+            <li>Recycle moi !</li>
         </Link>
             
         </ul>
