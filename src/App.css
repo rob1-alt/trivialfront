@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+.mainMenu{
+  color: red;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
