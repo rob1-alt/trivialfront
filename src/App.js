@@ -18,15 +18,17 @@ function App() {
       <Router>
 
         <Link to="/Produit">Product</Link>
-
+        <Link to="/Cycling"> Cycling</Link>
         <Switch>
           <Route exact path="/Produit" component={Produit} />
+          <Route exact path="/Cycling" component={Cycling} />
         </Switch>
     </Router>
     </div>
     
   );
 }
+
 
 
     
